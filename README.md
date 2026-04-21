@@ -20,7 +20,7 @@ Carta estelar hecha en Python con las 500 estrellas mas visibles delcatalogo BSC
 ## Uso e instalación
 
 1. Descargar el archivo haciendo clic en "<> Code" y luego en "download ZIP" 
-2. Asegurate de tener <a href="https://www.python.org/" target="_blank">Python</a> 3 instalado en el ordenador, asi como tambien las bibliotecas<a href="https://numpy.org/" target="_blank">numpy</a> y <a href="https://www.astropy.org/" target="_blank">astropy</a>
+2. Asegurate de tener <a href="https://www.python.org/" target="_blank">Python</a> 3 instalado en el ordenador, asi como tambien las bibliotecas <a href="https://numpy.org/" target="_blank">numpy</a> y <a href="https://www.astropy.org/" target="_blank">astropy</a>
 3. Tras descomprimir el zip en una carpeta, hacer click en "Titila.py" 
 4. El mapa se abrira junto con la consola.
 5. Modificar la ubicación del usuario en la esquina superior izquierda para que el cielo nocturno concuerde con la aplicación. 
